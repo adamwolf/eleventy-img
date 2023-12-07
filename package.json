@@ -7,7 +7,7 @@
   },
   "main": "img.js",
   "engines": {
-    "node": ">=14.15.0"
+    "node": ">=18.17.0"
   },
   "scripts": {
     "pretest": "eslint img.js test/**.js",
